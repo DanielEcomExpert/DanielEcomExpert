@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**DanielEcomExpert/DanielEcomExpert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shopify Growth Consultant specializing in:
 
-Here are some ideas to get you started:
+- Conversion Rate Optimization (CRO)
+- AI-driven store performance strategies
+- Shopify store audits & revenue optimization
+- Checkout and product page optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I help Shopify brands increase sales without increasing ad spend.
+
+📩 Connect with me:
+Telegram: https://t.me/DanielEcomExpert
+Fiverr: https://www.fiverr.com/danny_experts
+Facebook: https://www.facebook.com/profile.php?id=61587897098614
+Twitter: https://x.com/Boluwat02487937
